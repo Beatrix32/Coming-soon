@@ -3,7 +3,7 @@
 ![Eco Status](https://img.shields.io/badge/ECO-Friendly-green.svg)
 [![Discord](https://discord.com/api/guilds/571393319201144843/widget.png)](https://discord.gg/dRwW4rw)
 
-# Astronautas
+# Coming soon
 
 _website design project_
 
@@ -13,31 +13,19 @@ _website design project_
 
 This project is for educational porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
 
-Site published at: https://front-end-by-rimantas.github.io/55-grupe-astronautas
+Site published at: https://front-end-by-rimantas.github.io/55-grupe-coming-soon
 
-Design: ![alt text](./original-design.png)
+Design: ![alt text](./project-design.png)
 
 ## 🎯 Project features/goals
 
 -   Github pages
--   no responsive design
--   CSS file
--   FontAwesome icons
--   display: flex
--   favicon
--   hover state
--   bash commands:
-    -   `touch index.html` (sukuria faila)
-    -   `touch failas1.txt failas2.txt failas3.txt failas4.txt`
-    -   `mkdir img` (sukuria folderi/direktorija)
-    -   `mkdir folder1 folder2 folder3 folder4`
-    -   `ls -al` (stulpeliu atvaizduoja direktorijoje esanti turini)
-    -   `rm failo.pavadinimas` (pasalina faila)
--   git commands:
-    -   `git init` (git repozitorijos iniciavimas)
-    -   `git add .` (visus paredaguotus failas perkelia i "stage", t.y. paruosia commit'inimui)
-    -   `git commit -m "Message text"` (su'commit'ina)
-    -   `git push` (issiuncia commit'a i remove repozitorija (Github))
+-   responsive design
+-   CSS file (components)
+-   external fonts
+-   CSS animations
+-   HTML forms
+-   background image
 
 ## 🧰 Getting Started
 
@@ -61,7 +49,7 @@ Would like to run this project locally? Open terminal and follow these steps:
 
 1. Clone the repo
     ```sh
-    git clone https://github.com/front-end-by-rimantas/54-grupe-astronautas.git
+    git clone https://github.com/front-end-by-rimantas/55-grupe-coming-soon.git
     ```
 2. Install NPM packages
     ```sh
